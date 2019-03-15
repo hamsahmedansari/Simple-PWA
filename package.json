@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/hamsahmedansari/Simple-PWA/issues"
   },
-  "homepage": "https://github.com/hamsahmedansari/Simple-PWA#readme"
+  "homepage": "https://github.com/hamsahmedansari/Simple-PWA#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
 }
