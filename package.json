@@ -1,0 +1,26 @@
+{
+  "name": "simple-pwa",
+  "version": "1.0.0",
+  "description": "A simple PWA using vanillaJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamsahmedansari/Simple-PWA.git"
+  },
+  "keywords": [
+    "pwa",
+    "PWA",
+    "JS",
+    "learning",
+    "First"
+  ],
+  "author": "hamsahmedansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamsahmedansari/Simple-PWA/issues"
+  },
+  "homepage": "https://github.com/hamsahmedansari/Simple-PWA#readme"
+}
